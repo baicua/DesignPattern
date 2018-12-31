@@ -16,6 +16,8 @@
         <module>interpreter</module>
         <module>strategy</module>
         <module>factory</module>
+        <module>observer</module>
+        <module>command</module>
     </modules>
 
 

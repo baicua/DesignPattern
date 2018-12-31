@@ -6,7 +6,7 @@ package com.baicua.chain;
 public class TestCase {
     public static void main(String[] args) {
         Handler handler=chains();
-        handler.handle(1);
+        handler.handle(8);
         handler.handle(15);
         handler.handle(17);
         handler.handle(99);
