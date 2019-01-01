@@ -11,6 +11,7 @@ public class CommandApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
